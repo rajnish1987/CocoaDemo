@@ -1,0 +1,14 @@
+PODS:
+  - CocoaDemo (0.1.0)
+
+DEPENDENCIES:
+  - CocoaDemo (from `../`)
+
+EXTERNAL SOURCES:
+  CocoaDemo:
+    :path: ../
+
+SPEC CHECKSUMS:
+  CocoaDemo: 91361084e14f6daea2bfad19326acfda4593eafb
+
+COCOAPODS: 0.38.2

@@ -1,0 +1,6 @@
+framework module CocoaDemo {
+  umbrella header "CocoaDemo-umbrella.h"
+
+  export *
+  module * { export * }
+}
